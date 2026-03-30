@@ -1,8 +1,10 @@
-export default function Second (){
-    return(
-  <>
-    <h2>MgCO<sub>3</sub> .
-    3H<sub>2</sub>O</h2>
-   </>
-    );
+export default function Second() {
+  return (
+    <>
+      <p>
+        First name: <input type="text" placeholder="john" />
+        Last Name: <input type="text" placeholder="Smith" />
+      </p>
+    </>
+  );
 }

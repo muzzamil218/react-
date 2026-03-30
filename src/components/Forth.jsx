@@ -1,8 +1,10 @@
 export default function Forth(){
     return(
         <>
-         <h2> Na<sub>2</sub>CO<sub>3</sub> .
-    H<sub>2</sub>O </h2>
+        <p>
+            Email:<input type="Your email" placeholder="Your email"/>
+            Password: <input type="Your password" placeholder="Your password"/>
+            </p>
         </>
     );
 }
