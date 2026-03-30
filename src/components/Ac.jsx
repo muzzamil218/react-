@@ -1,0 +1,43 @@
+export default function Ac(){
+    return(
+        <>
+        <br></br>
+         <table border="1"Cellpadding="10"cellspacing="0">
+            <tr>
+                <td>La</td>
+                <td>Ce</td>
+                <td>Pr</td>
+                <td>Nd</td>
+                <td>Pm</td>
+                <td>Sm</td>
+                <td>Eu</td>
+                <td>Gd</td>
+                <td>Tb</td>
+                <td>Dy</td>
+                <td>Ho</td>
+                <td>Er</td>
+                <td>Tm</td>
+                <td>Yb</td>
+                <td>Lu</td>
+            </tr>
+            <tr>
+                <td>Ac</td>
+                <td>Th</td>
+                <td>Pa</td>
+                <td>U</td>
+                <td>Np</td>
+                <td>Pu</td>
+                <td>Am</td>
+                <td>Cm</td>
+                <td>Bk</td>
+                <td>Cf</td>
+                <td>Es</td>
+                <td>Fm</td>
+                <td>Md</td>
+                <td>No</td>
+                <td>Lr</td>
+            </tr>
+        </table>
+        </>
+    );
+}
