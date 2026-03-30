@@ -3,7 +3,7 @@ import Five from "./components/Five";
 import Forth from "./components/Forth";
 import Second from "./components/Second";
 import Seven from "./components/Seven";
-import Six from "./components/six";
+import Six from "./components/Six";
 import Third from "./components/Third";
 
 export default function App(){
