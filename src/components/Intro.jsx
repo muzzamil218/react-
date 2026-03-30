@@ -1,0 +1,32 @@
+export default function Intro(){
+  return(
+    <>
+     <ul>
+         <li>A </li>
+        <li>B</li>
+        <ol>
+            <li>B1 </li>
+            <li>B2</li> 
+        
+            <ul>
+                <li>  b2a </li>
+            <ul>
+                <li>B2aa</li>
+                <li>B2ab</li>
+            </ul>      
+                <Li>   B2b  </Li>
+                <li>B2c</li>
+           
+            </ul>
+            <li>B3</li>
+            <ol>
+            <li>B31</li>
+            <li>B32</li>
+           </ol>
+        </ol>
+    
+        <li>C</li>
+     </ul>
+    </>
+  );
+}
