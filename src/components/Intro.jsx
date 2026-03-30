@@ -14,7 +14,7 @@ export default function Intro(){
                 <li>B2aa</li>
                 <li>B2ab</li>
             </ul>      
-                <Li>   B2b  </Li>
+                <li>   B2b  </li>
                 <li>B2c</li>
            
             </ul>
