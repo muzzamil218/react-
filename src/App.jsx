@@ -1,21 +1,13 @@
-import First from "./components/First";
-import Five from "./components/Five";
-import Forth from "./components/Forth";
-import Second from "./components/Second";
-import Seven from "./components/Seven";
-import Six from "./components/Six";
-import Third from "./components/Third";
+import Heading from "./components/Heading"
+import Middle from "./components/Middle"
+import Ending from "./components/Ending"
 
 export default function App(){
-  return(
-    <>
-    <First/>
-    <Second/>
-    <Third/>
-    <Forth/>
-    <Five/>
-    <Six/>
-    <Seven/>
-    </>
-  );
+    return (
+        <>
+        <Heading />
+        <Middle />
+        <Ending />
+        </>
+    );
 }
